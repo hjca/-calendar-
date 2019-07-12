@@ -17,3 +17,5 @@ getDateVal：得到选择的日期值
     :end-date="endDate"
     @errorMag="showErrorMsg"
     @getDateVal="getDate"/>
+    
+    
